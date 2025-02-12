@@ -9,8 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "next": "^4.1.4",
+    "next": "^14.2.21",
     "react": "16",
-    "react-dom": "16"
+    "react-dom": "19"
   }
 }
